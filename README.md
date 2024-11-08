@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on life
 - 📫 How to reach me: Probably just text my instagram account
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: There is at least 1 planet in our galaxy
 
 <!---
 bakry1-mcmaster/bakry1-mcmaster is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
