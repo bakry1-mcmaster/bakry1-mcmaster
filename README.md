@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @bakry1-mcmaster
+- 👋 Hi, I’m Youssef Bakr
 - 👀 I’m interested in stuff idk 
-- 🌱 I’m currently learning electrical engineering. On the side im doing research into utilizing and creating pcbs and working with integrated circuits
+- 🌱 I’m currently learning Electrical Engineering. On the side im doing research into utilizing and creating pcbs and working with integrated circuits
 - 💞️ I’m looking to collaborate on life
 - 📫 How to reach me: Probably just text my instagram account
 - 😄 Pronouns: He/Him
