@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Youssef Bakr
 - 👀 I’m interested in stuff idk 
 - 🌱 I’m currently enrolled in a Computer Engineering program. On the side im doing research into utilizing and creating pcbs and working with integrated circuits
-- 💞️ I’m looking to collaborate on life
 - 📫 How to reach me: Probably just text my instagram account
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: There is at least 1 planet in our galaxy
